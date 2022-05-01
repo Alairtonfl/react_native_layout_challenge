@@ -1,0 +1,13 @@
+Calculator/node_modules/**/*
+Calculator/.expo/*
+Calculator/npm-debug.*
+Calculator/*.jks
+Calculator/*.p8
+Calculator/*.p12
+Calculator/*.key
+Calculator/*.mobileprovision
+Calculator/*.orig.*
+Calculator/web-build/
+
+# macOS
+.DS_Store
